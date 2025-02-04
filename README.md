@@ -1,5 +1,8 @@
 # Project Helpdesk: Backend API with Spring Boot
 
+## Functional Overview
+This project has a complete web application with CRUD (CREATE, READ, UPDATE, and DELETE) functionality for a small business to open and close service orders.
+
 ## Overview
 
 This project is a RESTful API built with Java and Spring Boot 2.3.12, using MySQL as the database. The application follows best practices for data validation, exception handling, authentication, and authorization using JWT tokens. Additionally, it adheres to the RESTful HTTP protocol standards.
